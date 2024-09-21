@@ -1,0 +1,4 @@
+Problem:
+You have an array of numbers. You will ask the user to either slice or splice the array. Based on their choice:
+* Slice will create a new array from a range of the original array (without modifying the original array).
+* Splice will remove a part of the original array (modifying it) and optionally insert new elements.
